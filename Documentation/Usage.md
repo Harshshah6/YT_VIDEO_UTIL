@@ -70,7 +70,7 @@ LegendaryUtil.getChannelid()
 
 #### getVideoDirectLink (download &....)
 ```java
-//returns ListArray<HashMap<String,Object>>
+//returns ArrayList<HashMap<String,Object>>
 LegendaryUtil.getMP4()
 
 /* key :-
@@ -81,7 +81,7 @@ LegendaryUtil.getMP4()
 
 #### getAudioDirectLink
 ```java
-//returns ListArray<HashMap<String,Object>>
+//returns ArrayList<HashMap<String,Object>>
 LegendaryUtil.getMP3()
 
 /* key :-
