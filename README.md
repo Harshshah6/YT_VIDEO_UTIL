@@ -1,6 +1,6 @@
 # YT_VIDEO_UTIL
 An Library helps to get / extract the information of youtube video..... This library is free to use for lifetime to paying needed.
- [![](https://jitpack.io/v/abodinagdat16/FileWareUtils.svg)](https://jitpack.io/#abodinagdat16/FileWareUtils)
+ [![](https://jitpack.io/v/Harshshah6/YT_VIDEO_UTIL.svg)](https://jitpack.io/#Harshshah6/YT_VIDEO_UTIL)
  ### Configure
  ### Maven
  ##### Step 1. Add the JitPack repository to your build file
@@ -18,7 +18,7 @@ An Library helps to get / extract the information of youtube video..... This lib
  
  dependencies {
  
-	           implementation 'com.github.abodinagdat16:FileWareUtils:v1.0.0'
+	           implementation 'com.github.Harshshah6:YT_VIDEO_UTIL:1.0'
          
 	}
 
@@ -27,25 +27,25 @@ An Library helps to get / extract the information of youtube video..... This lib
 - GetTitle
 - GetThumbnail(link)
 - GetDescription
-- GetVideoDownloadingLinks/Size(List map)
-- GetAudioDownloadingLinks/Size(List Map)
+- GetVideoDownloadingLinks/Size(ArrayList<HashMap<String, Object>>)
+- GetAudioDownloadingLinks/Size(ArrayList<HashMap<String, Object>>)
 - GetAuthor
 - GetAuthorChannelId
 - GetVideoLength
 - GetTags
-- _getMessage block used to get error or to get whole source in json format
+- _getMessage <- used to get error or to get whole source in json format
 
 #### VideoDownloading
-144p
-240p
-360p
-480p
-720p
-1080p
+- 144p
+- 240p
+- 360p
+- 480p
+- 720p
+- 1080p
 
 #### AudioDownloading
-mp3(low quality-low size)
-mp3(high quality-huge size)
+- mp3(low quality-low size)
+- mp3(high quality-huge size)
 
 ## Usage
 [Usages]()
