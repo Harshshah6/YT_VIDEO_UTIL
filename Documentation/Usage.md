@@ -25,3 +25,67 @@ util_name.ReqListener(new LegendaryListener(){
 		}
 });
 ```
+## OnSuccess Event Codes for getting all
+
+#### getTitle()
+```java
+//(returns String)
+LegendaryUtil.getTitle()
+```
+#### getDescription()
+```java
+//returns String
+LegendaryUtil.getDescription()
+```
+
+#### getThumbnail (direct URL)
+```java
+//returns String
+LegendaryUtil.getThumb()
+```
+
+#### getViews()--[returns view count]
+```java
+//returns String
+LegendaryUtil.getViews()
+```
+
+#### getAuthor() -- Uploader Name
+```java
+//returns String
+LegendaryUtil.getAuthor()
+```
+
+#### getVideoDuration()
+```java
+//returns String
+LegendaryUtil.getVideoLength()
+```
+
+#### getUploaderChannelId()
+```java
+//returns String
+LegendaryUtil.getChannelid()
+```
+
+#### getVideoDirectLink (download &....)
+```java
+//returns ListArray<HashMap<String,Object>>
+LegendaryUtil.getMP4()
+
+/* key :-
+1. link
+2. size
+*/
+```
+
+#### getAudioDirectLink
+```java
+//returns ListArray<HashMap<String,Object>>
+LegendaryUtil.getMP3()
+
+/* key :-
+1. link
+2. size
+*/
+```
