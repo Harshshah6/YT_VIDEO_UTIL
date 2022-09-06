@@ -16,12 +16,12 @@ An Library helps to get / extract the information of youtube video..... This lib
  
  #### Step 2. Add the dependency
  
- ```java
+ 
  dependencies {
  
 	           implementation 'com.github.Harshshah6:YT_VIDEO_UTIL:1.0'
          
-	}```
+	}
 	
 
 #### Getting Types
