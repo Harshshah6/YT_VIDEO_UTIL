@@ -1,7 +1,9 @@
 # YT_VIDEO_UTIL
 An Library helps to get / extract the information of youtube video..... This library is free to use for lifetime to paying needed.
  [![](https://jitpack.io/v/Harshshah6/YT_VIDEO_UTIL.svg)](https://jitpack.io/#Harshshah6/YT_VIDEO_UTIL)
- [](https://repository-images.githubusercontent.com/530299726/354e9b8e-b555-4609-b00c-1c871a2144ef)
+ 
+ [![](https://repository-images.githubusercontent.com/530299726/354e9b8e-b555-4609-b00c-1c871a2144ef)](https://github.com/Harshshah6/YT_VIDEO_UTIL)
+ 
  ### Configure
  ### Maven
  ##### Step 1. Add the JitPack repository to your build file
