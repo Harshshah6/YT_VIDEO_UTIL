@@ -24,10 +24,8 @@ An Library helps to get / extract the information of youtube video..... This lib
  
  ```
  dependencies {
- 
-	     implementation 'com.github.Harshshah6:YT_VIDEO_UTIL:1.0'
-         
-	}```
+     implementation 'com.github.Harshshah6:YT_VIDEO_UTIL:1.0'
+} ```java
 	
 
 #### Getting Types
