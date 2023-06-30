@@ -40,7 +40,7 @@ An Library helps to get / extract the information of youtube video..... This lib
 - GetAuthor
 - GetAuthorChannelId
 - GetVideoLength
-- GetTags
+- GetTags 
 - _getMessage <- used to get error or to get whole source in json format
 
 #### VideoDownloading
