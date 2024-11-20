@@ -8,6 +8,9 @@ An Library helps to get / extract the information of youtube video..... This lib
  ![GitHub repo size](https://img.shields.io/github/repo-size/Harshshah6/YT_VIDEO_UTIL?color=g&logo=github)
  
  [![](https://repository-images.githubusercontent.com/530299726/354e9b8e-b555-4609-b00c-1c871a2144ef)](https://repository-images.githubusercontent.com/530299726/354e9b8e-b555-4609-b00c-1c871a2144ef)
+
+
+## !! DEPRECATED
  
  ### Configure
  ### Maven
